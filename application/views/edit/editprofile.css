@@ -1,0 +1,20 @@
+body{
+    background-color: #C90610;
+}
+.card{
+    margin-top: 10%;
+}
+.img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+.btn-edit{
+    background-color: #C90610;
+    color: white;
+}
+.btn-edit:hover{
+    background-color: white;
+    color: #C90610;
+}

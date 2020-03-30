@@ -1,0 +1,24 @@
+body{
+    background-color: #C90610;
+}
+.card{
+    margin-top: 10%;
+}
+.img1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.btn-daftar{
+    background-color: #C90610;
+    color: white;
+    margin-top: 1rem;
+}
+.btn-daftar:hover{
+    background-color: white;
+    color: #C90610;
+}
+#prodiTeknikInformatika, #prodiSistemInformasi{
+    display:none
+}
